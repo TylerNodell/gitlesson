@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 def hello
-  p "hello"
+  p "test"
   p "ciao"
+=======
+def goodbye
+  p "hello"
+  p "goodbye"
+>>>>>>> 40e5e3fd950e7e959fc6b69e461cd23a5f7cd458
 end
