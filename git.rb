@@ -1,4 +1,4 @@
 def hello
-  p "hello"
+  p "test"
   p "ciao"
 end
